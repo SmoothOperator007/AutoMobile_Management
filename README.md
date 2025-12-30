@@ -13,10 +13,14 @@ VS Code / Python IDLE
 MySQL Command Line or MySQL Workbench
 
 📁 Project Structure
+
 AutoMobile_Management/
 │
+
 ├── AutoMobile_Management.py   # Main Python application
+
 ├── database.sql               # SQL script for database setup
+
 ├── README.md                  # Project documentation
 
 ⚙️ Database Setup
